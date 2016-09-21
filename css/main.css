@@ -1,0 +1,74 @@
+body { 
+	padding-top: 50px;
+	background-color: #F4F0BB;
+	font-family: 'Open Sans', sans-serif;
+}
+/*cabecera*/
+.navbar-brand, h1, h3{
+	font-family: "Merriweather";
+}
+.navbar{
+	background-color: #DA2C38;
+	color: #F4F0A6;
+	border-color: #DA2C38;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+	background-color: #ea2e3b;
+	color: #F4F0BB;
+}
+.navbar-default .navbar-brand{
+	color: #F4F0BB;	
+}
+.navbar-default .navbar-nav>li>a{
+	color: #F4F0BB;
+}
+/*seccion 1*/
+.fondo1{
+	background-image: url(../img/creamy.jpg);
+	background-position: 0% 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+
+}
+.jumbotron{
+	background-color: hsla(0, 0%, 0%, 0.5);
+	height: 400px;
+	color: #FFF;
+}
+.jumbotron h1{
+	font-size: 45px;
+}
+.caja1{
+	margin-top: 8%;
+}
+/*seccion 2 */
+#seccion2{
+	color: #DA2C38;
+	padding: 5%;
+}
+/*seccion 3*/
+#seccion3{
+	padding: 5%;
+	background-color: #DA2C38;
+	color: #F4F0BB;
+}
+/*seccion 4*/
+#seccion4{
+	padding: 5%;
+	color: #DA2C38;
+}
+.fa{
+	font-size: 100px;
+}
+/*pie de pagina*/
+#pie{
+	padding: 1%;
+	font-family: "Merriweather";
+	background-color: #DA2C38;
+	color: #F4F0BB;
+}
+#pie a{
+	color: #F4F0BB;
+}
